@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=insanodeath" alt="insanodeath" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/LucianoT2022" target="blank"><img src="https://img.shields.io/twitter/follow/LucianoT2022?logo=youtube&style=for-the-badge" alt="LucianoT2022" /></a> </p> 
+<p align="left"> <a href="https://twitter.com/LucianoT2022" target="blank"><img src="https://img.shields.io/twitter/follow/LucianoT2022?logo=x&style=for-the-badge" alt="LucianoT2022" /></a> </p> 
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucianoTruck2022&theme=github_dark" />
 
