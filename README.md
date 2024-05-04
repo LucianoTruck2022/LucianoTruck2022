@@ -11,8 +11,6 @@
 
 - 🌱 Actualmente estoy aprendiendo **C/C++, JavaScript**. 
 
-- 🤝 I’m looking for help with [TruckersHub](https://truckershub.in/)
-
 - 👨‍💻 Todos mis proyectos están disponibles pronto en Sitio Web
 
 - 💬 Si necesita apoyo en los Bots de Discord unete al [discord](https://discord.gg/kXZX89erVc) hay te espero
