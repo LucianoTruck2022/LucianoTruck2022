@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy Luciano Ordoñez Rodriguez</h1>
 <h3 align="center">Soy un principante en la progrmación actualmente estoy programando un bots para discord.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LucianoTruck22&label=Profile%20views&color=0e75b6&style=flat" alt="insanodeath" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LucianoTruck22&label=Profile%20views&color=0e75b6&style=flat" alt="LucianoTruck2022" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=insanodeath" alt="insanodeath" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LucianoTruck2022" alt="LucianoTruck2022" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/LucianoT2022" target="blank"><img src="https://img.shields.io/twitter/follow/LucianoT2022?logo=x&style=for-the-badge" alt="LucianoT2022" /></a> </p>  
+<p align="left"> <a href="https://twitter.com/LucianoT2020" target="blank"><img src="https://img.shields.io/twitter/follow/LucianoT2020?logo=x&style=for-the-badge" alt="LucianoT2020" /></a> </p>  <p align="left"> <a href="https://www.twitch.tv/lucianotruck22" target="blank"><img src="https://img.shields.io/twitch/status/lucianotruck22" alt="LucianoT2020" /></a> </p>  
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucianoTruck2022&theme=github_dark" />
 
@@ -17,11 +17,11 @@
 
 - 📫 How to reach me **lucianotruck2022@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/luciano-ordoñez-rodriguez-61112b301/](https://www.linkedin.com/in/luciano-ordoñez-rodriguez-61112b301/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/luciano-ordoñez-rodriguez/](https://www.linkedin.com/in/luciano-ordoñez-rodriguez/)
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
-<a href="https://twitter.com/LucianoTruck22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="LucianoTruck22" height="30" width="40" /></a>
+<a href="https://twitter.com/LucianoT2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="LucianoTruck22" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/luciano-ordoñez-rodriguez-61112b301/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luciano-ordoñez-rodriguez-61112b301/" height="30" width="40" /></a>
 <a href="https://instagram.com/LucianoTruck22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="LucianoTruck22" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@LucianoTruck22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="LucianoTruck22" height="30" width="40" /></a>
