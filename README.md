@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LucianoTruck2022" alt="LucianoTruck2022" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/LucianoT2020" target="blank"><img src="https://img.shields.io/twitter/follow/LucianoT2020?logo=x&style=for-the-badge" alt="LucianoT2020" /></a> </p>  <p align="left"> <a href="https://www.twitch.tv/lucianotruck22" target="blank"><img src="https://img.shields.io/twitch/status/lucianotruck22" alt="LucianoT2020" /></a> </p>  
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCFmhyhs6dHUBjxF6wVRzN6g"> <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/LucianoT2020"> <img src="https://img.shields.io/twitch/status/lucianotruck22" alt="LucianoT2020" /> [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/brybor-sh) </a> </p>  
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucianoTruck2022&theme=github_dark" />
 
