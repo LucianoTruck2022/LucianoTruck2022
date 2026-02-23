@@ -9,7 +9,7 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucianoTruck2022&theme=github_dark" />
 
-- 🌱 Actualmente estoy aprendiendo **C/C++, JavaScript**. 
+- 🌱 Actualmente estoy aprendiendo **JavaScript, Next.JS**. 
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://lucianotruck22.com/](https://lucianotruck22.com/)
 
